@@ -1,0 +1,12 @@
+apiVersion: v1
+data:
+  YOUR_PROPERTY: value1
+  YOUR_PROPERTY2: value2
+kind: ConfigMap
+metadata:
+  creationTimestamp: "2020-02-02T07:40:04Z"
+  name: pravasi-user-management
+  namespace: default
+  resourceVersion: "557971"
+  selfLink: /api/v1/namespaces/default/configmaps/pravasi-user-management
+  uid: bdf981ea-2859-4485-a8bc-905861013f05

@@ -1,0 +1,2 @@
+INSERT INTO users(id, first_name, last_name, driver_id, aadhar_card, pan_number) VALUES (1001, 'Nikhil', 'Pawar', 2777, '123 456 789', 'ABCDE1234A');
+INSERT INTO users(id, first_name, last_name, driver_id, aadhar_card, pan_number) VALUES (1002, 'Dhiresh', 'Mundada', 3457, '987 654 321', 'EDCBA4321B');
